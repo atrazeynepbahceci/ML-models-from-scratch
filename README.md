@@ -1,2 +1,7 @@
 # ML-models-from-scratch
-Logistic regression and naive bayes classifier without ML libraries
+_naive bayes classifier and logistic regression without ML libraries_
+
+**Naive Bayes Classifier**
+E-mail Spam Classifier
+• Dataset: Ling-Spam Dataset of 960 e-mail messages
+• Code includes smoothed predictions 
